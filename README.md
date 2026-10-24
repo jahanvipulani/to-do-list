@@ -1,5 +1,3 @@
-# 📋 To-Do List Manager
-
 A complete desktop To-Do List application built with **Python 3**, **Tkinter**, and **MySQL 8.0+**.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
